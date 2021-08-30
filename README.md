@@ -3,7 +3,7 @@ Here is all my work related to problem solving, implementations of different alg
 
 ## Algorithms_Toolbox
 I've finished Algorithmic Toolbox Course of 'Data Structures and Algorithms Specialization' offered by university of california san diego.
-## Courses certification
+### Courses certification
 ![certificate](https://user-images.githubusercontent.com/64365635/117861126-61752000-b291-11eb-865d-be8a3203fe15.PNG)
 
 ## Data-structure
