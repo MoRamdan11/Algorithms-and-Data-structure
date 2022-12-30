@@ -1,6 +1,6 @@
 # Algorithms-and-Data-structure
 Here is all my work related to problem solving, implementations of different algorithms and data structures from scratch in C++.
-## Beginning C++ Programming - From Beginner to Beyond
+## C++ programming language
 I've completed "Beginning C++ Programming - From Beginner to Beyond" udemy course offered by Dr.Frank J. Mitropoulos.
 ![Certficate](https://user-images.githubusercontent.com/64365635/210106861-32a2874a-f82f-4363-9170-2f501acc20cf.jpg)
 
